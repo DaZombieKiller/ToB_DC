@@ -4,7 +4,7 @@ A mod project to remove censorship from Tales of Berseria.
 # Decensor Status
 ## Censored Scenes
 - [x] Prologue
-- [ ] The Transgressor's Chains: Prologue Flashback
+- [x] The Transgressor's Chains: Prologue Flashback
 ## Censored Videos
 - [x] Infernal Gates Unlatched (AM_MEP_010_010)
 - [x] Voracious Daemons (AM_MEP_030_330)
