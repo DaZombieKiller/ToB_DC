@@ -8,12 +8,9 @@ A mod project to remove censorship from Tales of Berseria and Tales of Berseria 
 ## Censored Videos
 - [x] Infernal Gates Unlatched (AM_MEP_010_010)
 - [x] Voracious Daemons (AM_MEP_030_330)
-## Censored Videos (Remaster)
-- [ ] Infernal Gates Unlatched (AM_MEP_010_010)
-- [ ] Voracious Daemons (AM_MEP_030_330)
 
 # Installation
-1. Download `ToB_DC.zip` from the [latest release](https://github.com/DaZombieKiller/ToB_DC/releases/latest) or `ToB_DCr.7z` from [0.9r](https://github.com/DaZombieKiller/ToB_DC/releases/tag/0.9r) for the remaster.
+1. Download `ToB_DC.zip` from the [latest release](https://github.com/DaZombieKiller/ToB_DC/releases/latest) or `ToB_DCr.7z` from [1.0r](https://github.com/DaZombieKiller/ToB_DC/releases/tag/1.0r) for the remaster.
 2. Extract the archive to the game's install folder. You can access this from the game's properties in Steam:
 <p align="center">
   <img width="339" height="311" src="https://github.com/DaZombieKiller/ToB_DC/assets/6316315/fd530aae-1adf-494a-83fb-243bcd8a2731">
@@ -28,8 +25,6 @@ After you have extracted the files, your game folder should look like this (if y
 <p align="center">
   <img width="196" height="291" src="https://github.com/DaZombieKiller/ToB_DC/assets/6316315/68bb4237-271a-48c3-906a-9474ee60d716">
 </p>
-
-If you are using the remaster, there are no further steps as the video files are not currently patched.
 
 3. Run `patch_movies.cmd` to decensor the video files.
 4. That's it!
